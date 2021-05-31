@@ -1,6 +1,6 @@
-# :white_check_mark: Ciąg Fibbonaciego
+# :white_check_mark: Ciąg Fibbonacciego
 
-## Strona internetowa pozwalająca użytkownikowi na obliczenie podanego przez niego elementu ciągu fibbonaciego.
+## Strona internetowa pozwalająca użytkownikowi na obliczenie podanego przez niego elementu ciągu fibbonacciego.
 ### Technologia
 
 Projekt został stworzony w:
